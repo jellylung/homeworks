@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678634537 source:d:\works\codegcc\lab1_add\main.cpp
+	<iostream>
+	<Windows.h>
+	<stdlib.h>
+
