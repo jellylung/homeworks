@@ -8,6 +8,8 @@
 #include <semaphore.h>
 #include <algorithm>
 #include <omp.h>
+#include <mpi.h>
+
 
 using namespace std;
 
